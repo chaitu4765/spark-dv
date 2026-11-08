@@ -63,3 +63,9 @@ The capture/one-time transformation scripts in `scripts/` document the work; do 
 ### Liquid homepage headline
 
 The user-supplied LiquidText component is integrated into both hero headline lines, using the existing Motion runtime. Product photography and routes remain unchanged. The SDF/shader implementation lives in `src/components/ui/liquid-text.tsx`; missing canvas/visibility helpers are implemented locally in `liquid-text-utils.ts`. Animation responds to pointer and touch, settles after release, and pauses offscreen/in background tabs. Reduced motion and unavailable/lost WebGL show ordinary accessible text.
+
+### Vercel deployment
+
+Commit source files, `package.json`, `package-lock.json`, and `vercel.json`. Keep `node_modules/` and `dist/` out of Git: Windows-generated dependency launchers cannot be reused as Linux executables. The Vercel configuration installs with `npm ci`, builds with `npm run build`, and serves `dist/`. The SPA rewrite supports direct visits and refreshes on product and editorial routes.
+
+After pushing the dependency-tracking fix, deploy the new commit. Redeploying the old commit will retain its tracked dependencies. If manually redeploying, turn off reuse of the existing build cache for the first corrected deployment.

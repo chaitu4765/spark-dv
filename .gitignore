@@ -1,0 +1,11 @@
+# Dependencies and generated build output must be installed/built on each platform.
+node_modules/
+dist/
+.vercel/
+
+# Local configuration, logs, and temporary validation workspaces.
+.env
+.env.*
+!.env.example
+*.log
+.tmp/
