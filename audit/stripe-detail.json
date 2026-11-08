@@ -1,0 +1,21 @@
+{
+  "canvas": true,
+  "fixed": [
+    "PressHomepage__backgroundFill",
+    "PressHomepage__filmBackground",
+    "PressHomepageCanvas__container",
+    "PressHomepageBookDescription",
+    "PressHomepageFilmOverlay",
+    "PressHomepagePodcastTranscriptOverlay",
+    "PressHomepagePodcastTranscriptOverlay__progressIndicator",
+    "PressHomepagePodcastTranscriptOverlay__backButton",
+    "PressHomepage__colorOverlay",
+    "PressHomepageMenu PressHomepageMenu--isInitialized",
+    "PressHomepageControlPanel",
+    "NotificationCenter theme--Light flavor--Chroma accent--Slate"
+  ],
+  "bookText": [
+    "none",
+    "none"
+  ]
+}

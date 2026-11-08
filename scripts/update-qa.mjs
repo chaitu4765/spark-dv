@@ -1,0 +1,3 @@
+import fs from 'node:fs/promises';
+let q=await fs.readFile('scripts/qa.mjs','utf8');q=q.replace('viewport:{width:1440,height:1000}','reducedMotion:"reduce",viewport:{width:1440,height:1000}');q=q.replaceAll('await p.waitForTimeout(150)','await p.waitForTimeout(route===\'/\'?1200:150)');q=q.replaceAll('await p.waitForTimeout(200)','await p.waitForTimeout(route===\'/\'?1200:200)');await fs.writeFile('scripts/qa.mjs',q);
+let i=await fs.readFile('scripts/interactions.mjs','utf8');i=i.replace("await p.getByRole('button',{name:'Add Nanion Lite to cart',exact:true}).click();","await p.getByRole('button',{name:'View Nanion Lite',exact:true}).click();await p.getByRole('button',{name:'Add to cart',exact:true}).click();");await fs.writeFile('scripts/interactions.mjs',i);

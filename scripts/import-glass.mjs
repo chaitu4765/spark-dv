@@ -1,0 +1,11 @@
+import fs from 'node:fs/promises';
+const source=await fs.readFile('C:/Users/LAVANYA/.codex/attachments/de5b172c-fa26-4e17-8ab4-d9b04237281d/Pasted text.txt','utf8');
+let code=source.slice(source.indexOf('"use client"'),source.indexOf('demo.tsx')).trim();
+code=code.slice(0,code.indexOf('const MARK_21ST'));
+code+=`export { GlassIconReveal };\nexport default GlassIconReveal;\n`;
+code=code.replace('const TEX = 1024','const TEX = 512');
+code=code.replace('live: React.RefObject<','live: React.MutableRefObject<');
+code=code.replace('(err) => console.error(err),','() => setFallback(true),');
+code=code.replace('      time = 0\n      playing = true\n      pauseLeft = 0\n      outro = 0\n      dirty = true\n      kick()','      if (reduceMotion) return\n      time = 0\n      playing = true\n      pauseLeft = 0\n      outro = 0\n      dirty = true\n      kick()');
+await fs.mkdir('src/components/ui',{recursive:true});await fs.writeFile('src/components/ui/liquid-glass-logo-reveal.tsx',code);
+const shelf=await fs.readFile('C:/Users/LAVANYA/.codex/attachments/e85f6bc6-fde0-42ca-b109-c87e1ad6185c/Pasted text.txt','utf8');await fs.mkdir('audit/components',{recursive:true});await fs.writeFile('audit/components/supplied-product-shelf.txt',shelf);await fs.writeFile('audit/components/supplied-glass-reveal.txt',source);

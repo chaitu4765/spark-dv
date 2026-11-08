@@ -1,0 +1,55 @@
+.home-editorial .brand-principles {padding-block:24px;font-size:13px;border-bottom:0;margin-bottom:45px;}
+.home-editorial .home-research {background:#e6ede7;padding-block:85px 35px;scroll-margin-top:100px;}
+.home-editorial .home-research-intro {display:grid;grid-template-columns:1.3fr 1fr;gap:9%;align-items:end;margin-bottom:60px;}
+.home-editorial .home-research h2,.home-editorial .home-community h2 {font-size:clamp(36px,3.9vw,58px);line-height:1.08;letter-spacing:-.035em;margin:0;}
+.home-editorial .home-research-intro>p {font-size:17px;line-height:1.7;max-width:410px;margin:0;}
+.home-editorial .home-research-spread {display:grid;grid-template-columns:1.35fr 1fr;gap:8%;align-items:start;}
+.home-editorial .home-research-visual {position:sticky;top:126px;min-width:0;}
+.home-editorial .home-research-tabs {display:flex;border-block:1px solid #bacbc0;justify-content:space-between;gap:14px;}
+.home-editorial .home-research-tabs button {background:transparent;border:0;border-bottom:2px solid transparent;padding:15px 0;font-size:13px;line-height:1.4;min-height:50px;color:#435d50;border-radius:0;text-align:left;}
+.home-editorial .home-research-tabs button[aria-pressed=true] {border-bottom-color:var(--ink);color:var(--ink);}
+.home-editorial .home-research-visual figure {margin:22px 0 0;}
+.home-editorial .home-research-images {position:relative;width:100%;height:400px;background:#f7f8f4;overflow:hidden;}
+.home-editorial .home-research-images img {position:absolute;inset:0;width:100%;height:100%;object-fit:contain;padding:20px;}
+.home-editorial .home-research-visual figcaption {font-size:11px;line-height:1.5;color:#435d50;margin-top:14px;}
+.home-editorial .home-research-copy article {min-height:450px;display:flex;flex-direction:column;justify-content:center;align-items:flex-start;padding-block:45px;border-bottom:1px solid #bacbc0;scroll-margin-top:120px;}
+.home-editorial .home-research-copy article:last-child {border-bottom:0;}
+.home-editorial .home-research-copy h3 {font-size:clamp(32px,3vw,45px);line-height:1.12;letter-spacing:-.035em;margin:0 0 24px;}
+.home-editorial .home-research-copy p {font-size:17px;line-height:1.75;margin:0 0 26px;max-width:36ch;}
+.home-editorial .home-research-foot {display:flex;justify-content:space-between;gap:24px;padding-block:25px;border-top:1px solid #bacbc0;margin-top:45px;font-size:13px;}
+.home-editorial .portfolio-section {padding-block:100px 50px;}
+.home-editorial .portfolio-section>.text-link {margin-top:28px;}
+.home-editorial .clinical-highlights {padding-top:60px;}
+.home-editorial .clinical-highlights>div {display:block;}
+.home-editorial .clinical-highlights article {display:grid;grid-template-columns:1fr 1.1fr;gap:8%;padding-block:26px;}
+.home-editorial .clinical-highlights h3 {margin:0;font-size:27px;}
+.home-editorial .clinical-highlights p {margin:0;max-width:52ch;}
+.home-editorial .home-community {display:grid;grid-template-columns:1.25fr 1fr;gap:8%;align-items:center;padding-block:110px;}
+.home-editorial .home-community figure {margin:0;}
+.home-editorial .home-community img {display:block;width:100%;height:auto;}
+.home-editorial .home-community figcaption {font-size:12px;color:var(--muted);margin-top:14px;}
+.home-editorial .home-community p {font-size:17px;line-height:1.75;color:var(--muted);margin:25px 0;}
+.home-editorial .audience-paths {gap:32px;padding-bottom:80px;}
+.home-editorial .audience-paths>a h3 svg {transition:transform .25s;}
+.home-editorial .audience-paths>a:hover h3 svg {transform:translate(3px,-3px);}
+.home-editorial .home-testimonial {text-align:left;display:grid;grid-template-columns:1fr auto;align-items:end;gap:40px;padding:65px 0 90px;}
+.home-editorial .home-testimonial blockquote {margin:0 0 25px;font-size:clamp(26px,3vw,42px);line-height:1.3;max-width:900px;}
+.home-editorial .home-testimonial p {margin:0;}
+.home-editorial .quote-navigation {align-self:end;}
+.home-editorial .home-quote-content {animation:home-quote-change .24s ease-out;}
+@keyframes home-quote-change {from{opacity:.5;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
+.home-editorial .home-research.is-reduced .home-research-visual {position:static;}
+.home-editorial .home-research.is-reduced .home-research-copy article {min-height:460px;}
+.home-editorial .home-research-copy article[hidden] {display:none;}
+@media(min-width:901px) and (max-height:800px){.home-editorial .home-research-images{height:310px;}.home-editorial .home-research-visual{top:110px;}}
+@media(max-width:1100px){.home-editorial .home-opening-actions{gap:18px;}.home-editorial .home-opening-read{margin-top:40px;}.home-editorial .home-cover-photo{padding:25px;}.home-editorial .home-cover img{height:430px;}.home-editorial .home-research-tabs button{font-size:12px;}.home-editorial .home-research-spread{gap:5%;}}
+@media(max-width:900px){
+ .home-editorial .home-opening{column-gap:5%;}.home-editorial .home-opening h1{font-size:clamp(42px,6vw,62px);}.home-editorial .home-cover-photo{padding:20px;}.home-editorial .home-cover img{height:380px;}
+ .home-editorial .home-research{padding-top:60px;}.home-editorial .home-research-intro{grid-template-columns:1fr;gap:25px;margin-bottom:35px;}.home-editorial .home-research-spread{grid-template-columns:1fr;gap:22px;}.home-editorial .home-research-visual{position:static;}.home-editorial .home-research-images{height:390px;}.home-editorial .home-research-copy article,.home-editorial .home-research.is-reduced .home-research-copy article{min-height:230px;padding:18px 0 10px;border:0;}.home-editorial .home-research-copy p{max-width:65ch;}.home-editorial .home-research-foot{margin-top:20px;}
+}
+@media(max-width:600px){
+ .home-editorial .home-opening{grid-template-columns:1fr;padding-top:30px;}.home-editorial .home-opening-copy{padding:0 0 30px;}.home-editorial .home-opening h1{font-size:clamp(43px,10.7vw,60px);margin-bottom:24px;}.home-editorial .home-opening-copy>p{font-size:16px;margin-bottom:25px;}.home-editorial .home-opening-actions{gap:20px;}.home-editorial .home-opening-read{margin-top:25px;font-size:12px;gap:18px;}.home-editorial .home-cover-photo{padding:24px 35px;}.home-editorial .home-cover img{height:345px;}.home-editorial .home-cover-caption{padding:18px 22px;font-size:18px;}.home-editorial .home-opening-foot{font-size:10px;padding-block:20px;margin-top:18px;}.home-editorial .brand-principles{font-size:12px;margin-bottom:20px;}
+ .home-editorial .home-research{padding-block:50px 20px;scroll-margin-top:90px;}.home-editorial .home-research h2,.home-editorial .home-community h2{font-size:36px;}.home-editorial .home-research-intro>p{font-size:16px;}.home-editorial .home-research-tabs{gap:16px;}.home-editorial .home-research-tabs button{font-size:12px;padding-block:13px;}.home-editorial .home-research-images{height:280px;}.home-editorial .home-research-images img{padding:10px;}.home-editorial .home-research-copy h3{font-size:31px;margin-bottom:18px;}.home-editorial .home-research-copy p{font-size:16px;line-height:1.7;margin-bottom:20px;}.home-editorial .home-research-copy article{min-height:270px;}.home-editorial .home-research-foot{flex-direction:column;gap:12px;font-size:13px;padding-block:20px;}
+ .home-editorial .portfolio-section{padding-block:60px 20px;}.home-editorial .clinical-highlights{padding-top:45px;}.home-editorial .clinical-highlights article{grid-template-columns:1fr;gap:15px;padding-block:23px;}.home-editorial .clinical-highlights h3{font-size:25px;}.home-editorial .home-community{grid-template-columns:1fr;gap:32px;padding-block:65px;}.home-editorial .home-community p{font-size:16px;}.home-editorial .audience-paths{padding-bottom:60px;}.home-editorial .home-testimonial{grid-template-columns:1fr;gap:10px;padding:45px 0 60px;}.home-editorial .quote-navigation{justify-content:flex-start;}
+}
+@media(prefers-reduced-motion:reduce){.home-editorial *{scroll-behavior:auto;}.home-editorial .home-quote-content{animation:none;}.home-editorial .home-cover img,.home-editorial .audience-paths>a h3 svg{transition:none;transform:none!important;}}

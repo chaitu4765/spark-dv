@@ -1,0 +1,23 @@
+{
+  "results": [
+    {
+      "route": "/",
+      "reduced": false,
+      "sceneChunks": 0
+    },
+    {
+      "route": "/science",
+      "reduced": false,
+      "sceneChunks": 1
+    },
+    {
+      "route": "/science",
+      "reduced": true,
+      "sceneChunks": 0
+    },
+    {
+      "comparisonGallery": true
+    }
+  ],
+  "errors": []
+}

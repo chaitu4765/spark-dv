@@ -1,0 +1,11 @@
+{
+  "results": [
+    "Both headline lines render; pointer interaction changes ink and returns to a stable frame",
+    "WebGL context loss exposes readable text and context restoration recovers the effect",
+    "Layouts fit 320–1440px; native touch scrolling through the headline works",
+    "Changing reduced-motion preferences uses static text and restores animation when re-enabled",
+    "Browsers without WebGL2 show the complete headline",
+    "Effect is exclusive to the homepage"
+  ],
+  "errors": []
+}

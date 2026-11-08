@@ -1,0 +1,120 @@
+{
+  "markdown": "[Skip to main content](https://non-linear.studio/work/cleer#main)\n\nC. 2025\n\nDesign Only\n\n# Cleer\n\n- [E-commerce](https://non-linear.studio/industries/e-commerce)\n\nThoughtfully designed oral care that’s worth making space on your top shelf.\n\n- Strategy\n- Branding\n- Information Architecture\n- Art Direction\n- Website Design\n\nCleer is where smart science meets good taste. We believe oral care shouldn’t be an afterthought or a hassle, so we created a better way to care for your retainer.\n\nBrand and digital design system designed to scale with Cleer’s expanding product ecosystem — elevating perception, simplifying navigation, and positioning the company as a modern leader in oral care.\n\n#### Challenge:\n\nChallenge+-\n\nCleer approached us to help elevate their brand perception, as well as build a scalable identity system and website capable of supporting an expanding portfolio of oral hygiene products.\n\n#### Approach:\n\nApproach+-\n\nOur approach was to distill the sleek minimalism of the product design into a refined brand system and digital experience — one that elevates the offering, clarifies its value, and positions Cleer distinctly within a crowded oral care market.\n\n#### Results:\n\nResults+-\n\nThe new brand and website establish a more cohesive and elevated presence, improving clarity across Cleer’s growing product line while reinforcing trust and perceived quality. A modular system enables the team to efficiently launch and iterate on new products, while the refined digital experience creates a stronger first impression and more intuitive path to purchase.\n\n## Gallery\n\n[View project: Ozarke](https://non-linear.studio/work/ozarke)\n\n### Ozarke\n\nC.2025\n\nBranding\n\n+\n\nWebsite\n\n[View project: Cosmetica](https://non-linear.studio/work/cosmetica)\n\n### Cosmetica\n\nC.2023\n\nWebsite\n\nDesign\n\n[View project: Brightech](https://non-linear.studio/work/brightech)\n\n### Brightech\n\nC.2022\n\nBrand\n\nDesign\n\n[View project: Red Kap](https://non-linear.studio/work/red-kap)\n\n### Red    Kap\n\nC.2022\n\nWebsite\n\nDesign\n\n## Related Projects\n\n## Cookie consent\n\nHi there 👋. Thanks for visiting us today. Please note that this website uses essential cookies to ensure its proper operation and tracking cookies to provide valuable insights as to how you interact with it.\n\nAccept allAccept necessary",
+  "links": [
+    "https://non-linear.studio/work/cleer#main",
+    "https://non-linear.studio/industries/e-commerce",
+    "https://non-linear.studio/work/ozarke",
+    "https://non-linear.studio/work/cosmetica",
+    "https://non-linear.studio/work/brightech",
+    "https://non-linear.studio/work/red-kap"
+  ],
+  "branding": {
+    "colorScheme": "dark",
+    "fonts": [
+      {
+        "family": "Non Sans",
+        "role": "body"
+      }
+    ],
+    "colors": {
+      "primary": "#6D58FF",
+      "accent": "#800000",
+      "background": "#000000",
+      "textPrimary": "#000000",
+      "link": "#800000"
+    },
+    "typography": {
+      "fontFamilies": {
+        "primary": "Non Sans",
+        "heading": "Non Sans"
+      },
+      "fontStacks": {
+        "heading": [
+          "NonSans",
+          "arial",
+          "sans-serif"
+        ],
+        "body": [
+          "NonSans",
+          "arial",
+          "sans-serif"
+        ],
+        "paragraph": [
+          "NonSans",
+          "arial",
+          "sans-serif"
+        ]
+      },
+      "fontSizes": {
+        "h1": "160px",
+        "h2": "64px",
+        "body": "32px"
+      }
+    },
+    "spacing": {
+      "baseUnit": 4,
+      "borderRadius": "3px"
+    },
+    "components": {},
+    "images": {
+      "favicon": "https://non-linear.studio/icons/favicon.ico",
+      "ogImage": "https://cdn.sanity.io/images/ji7i6g9r/production/b2521cf4e24c6a071360a35255f074fac711c140-1200x630.gif"
+    },
+    "personality": {
+      "tone": "minimalist",
+      "energy": "low",
+      "targetAudience": "businesses"
+    },
+    "designSystem": {
+      "framework": "unknown",
+      "componentLibrary": ""
+    },
+    "confidence": {
+      "buttons": 0,
+      "colors": 0.5266666666666667,
+      "overall": 0.26333333333333336
+    },
+    "brandName": "Cleer"
+  },
+  "metadata": {
+    "og:image:width": "1200",
+    "theme-color": "#212121",
+    "og:description": "Brand identity and design system for Cleer, a modern oral care company scaling beyond retainer care. Design-only engagement, built for growth.",
+    "msapplication-TileColor": "#212121",
+    "ogImage": "https://cdn.sanity.io/images/ji7i6g9r/production/b2521cf4e24c6a071360a35255f074fac711c140-1200x630.gif",
+    "description": "Brand identity and design system for Cleer, a modern oral care company scaling beyond retainer care. Design-only engagement, built for growth.",
+    "ogTitle": "Cleer — Oral Care DTC Brand Case Study",
+    "twitter:creator": "@linear_non",
+    "ogDescription": "Brand identity and design system for Cleer, a modern oral care company scaling beyond retainer care. Design-only engagement, built for growth.",
+    "og:image": "https://cdn.sanity.io/images/ji7i6g9r/production/b2521cf4e24c6a071360a35255f074fac711c140-1200x630.gif",
+    "twitter:description": "Brand identity and design system for Cleer, a modern oral care company scaling beyond retainer care. Design-only engagement, built for growth.",
+    "twitter:url": "https://non-linear.studio/cleer",
+    "twitter:image": "https://cdn.sanity.io/images/ji7i6g9r/production/b2521cf4e24c6a071360a35255f074fac711c140-1200x630.gif",
+    "language": "en",
+    "twitter:site": "https://non-linear.studio/cleer",
+    "og:image:height": "630",
+    "twitter:card": "summary_large_image",
+    "ogUrl": "https://non-linear.studio/cleer",
+    "ogLocale": "en_US",
+    "viewport": "width=device-width",
+    "title": "Cleer — Oral Care DTC Brand Case Study",
+    "og:title": "Cleer — Oral Care DTC Brand Case Study",
+    "og:type": "website",
+    "og:url": "https://non-linear.studio/cleer",
+    "generator": "Astro v5.12.0",
+    "og:locale": "en_US",
+    "twitter:title": "Cleer — Oral Care DTC Brand Case Study",
+    "favicon": "https://non-linear.studio/icons/favicon-32x32.png",
+    "scrapeId": "01a1ba32-7d66-73f8-a53e-b1a44c81fc87",
+    "sourceURL": "https://non-linear.studio/work/cleer",
+    "url": "https://non-linear.studio/work/cleer",
+    "statusCode": 200,
+    "contentType": "text/html; charset=UTF-8",
+    "timezone": "America/New_York",
+    "proxyUsed": "basic",
+    "indexId": "c595f337-0779-4f13-aab0-1b040d914c8e",
+    "creditsUsed": 1,
+    "concurrencyLimited": false
+  },
+  "conversationId": "c400742a-3411-82c0-8aed-514abba5e894"
+}

@@ -1,0 +1,4 @@
+import fs from 'node:fs/promises';import sharp from 'sharp';
+const assets=JSON.parse(await fs.readFile('audit/asset-mapping.json'));
+for(const a of assets.filter(a=>a.error)){try{const r=await fetch(a.source,{signal:AbortSignal.timeout(20000)});if(!r.ok)throw Error(r.status);const buffer=Buffer.from(await r.arrayBuffer());const name=new URL(a.source).pathname.split('/').pop();await fs.writeFile('public/assets/research/'+name,buffer);await sharp(buffer).webp({quality:90}).toFile('public/assets/research/'+name.replace('.jpg','.webp'));const meta=await sharp(buffer).metadata();a.original='/assets/research/'+name;a.local=a.original.replace('.jpg','.webp');a.width=meta.width;a.height=meta.height;delete a.error;}catch(e){console.log(a.source,String(e));}}
+await fs.writeFile('audit/asset-mapping.json',JSON.stringify(assets,null,2));

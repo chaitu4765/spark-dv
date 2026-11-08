@@ -1,0 +1,13 @@
+{
+  "results": [
+    "Six original photos match their product names and routes; full images fit inside their cards",
+    "Pointer parallax and scroll depth respond; scrolling continues to the rest of the homepage",
+    "Product cards and main shopping CTA navigate correctly",
+    "Keyboard focus reveals the product and Enter opens its detail page",
+    "Mobile product rail controls work; 390px, 768px and 1024px layouts have no page overflow",
+    "Native mobile touch swipe works",
+    "Reduced motion uses static product cards without canvas or depth animation",
+    "Hero stays exclusive to the homepage"
+  ],
+  "errors": []
+}

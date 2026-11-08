@@ -1,0 +1,4009 @@
+[
+  {
+    "label": "desktop",
+    "url": "https://press.stripe.com/",
+    "scroll": 0,
+    "canvas": [
+      {
+        "class": "PressHomepageCanvas",
+        "width": 1440,
+        "height": 1000
+      },
+      {
+        "class": "PressHomepagePodcastDetails__previewAudioCanvas",
+        "width": 300,
+        "height": 150
+      }
+    ],
+    "transforms": [
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -115.57, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -145.273, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -210.828, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -122.914, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -158.055, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -137.258, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -95.2266, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -159.641, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -148.93, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -159.391, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -139.758, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -156.727, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -137.383, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -251.422, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -193.539, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -262.445, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -132.461, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -156.773, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -150.852, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -171, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -140.211, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageFooter__close",
+        "transform": "none",
+        "perspective": "none",
+        "position": "sticky"
+      },
+      {
+        "tag": "SOURCE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      }
+    ],
+    "links": [
+      {
+        "text": "Nomad Letters",
+        "href": "https://press.stripe.com/nomad-letters"
+      },
+      {
+        "text": "Built to Grow",
+        "href": "https://press.stripe.com/built-to-grow"
+      },
+      {
+        "text": "Poor Charlie’s Almanack",
+        "href": "https://press.stripe.com/poor-charlies-almanack"
+      },
+      {
+        "text": "Maintenance",
+        "href": "https://press.stripe.com/maintenance-part-one"
+      },
+      {
+        "text": "The Origins of Efficiency",
+        "href": "https://press.stripe.com/origins-of-efficiency"
+      },
+      {
+        "text": "The Scaling Era",
+        "href": "https://press.stripe.com/scaling"
+      },
+      {
+        "text": "Boom",
+        "href": "https://press.stripe.com/boom"
+      },
+      {
+        "text": "Scaling People",
+        "href": "https://press.stripe.com/scaling-people"
+      },
+      {
+        "text": "Pieces of the Action",
+        "href": "https://press.stripe.com/pieces-of-the-action"
+      },
+      {
+        "text": "Where Is My Flying Car?",
+        "href": "https://press.stripe.com/where-is-my-flying-car"
+      },
+      {
+        "text": "The Big Score",
+        "href": "https://press.stripe.com/the-big-score"
+      },
+      {
+        "text": "Scientific Freedom",
+        "href": "https://press.stripe.com/scientific-freedom"
+      },
+      {
+        "text": "Working in Public",
+        "href": "https://press.stripe.com/working-in-public"
+      },
+      {
+        "text": "The Art of Doing Science and Engineering",
+        "href": "https://press.stripe.com/the-art-of-doing-science-and-engineering"
+      },
+      {
+        "text": "The Making of Prince of Persia",
+        "href": "https://press.stripe.com/the-making-of-prince-of-persia"
+      }
+    ],
+    "animations": [
+      {
+        "state": "running",
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(0)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "state": "running",
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(0)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "state": "running",
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(0)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "state": "running",
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(0)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "state": "running",
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(0)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "state": "running",
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(0)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "state": "running",
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(0)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "state": "running",
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(0)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "state": "running",
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(0)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "state": "running",
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(0)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(1)",
+            "computedOffset": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "hover",
+    "url": "https://press.stripe.com/",
+    "scroll": 0,
+    "canvas": [
+      {
+        "class": "PressHomepageCanvas",
+        "width": 1440,
+        "height": 1000
+      },
+      {
+        "class": "PressHomepagePodcastDetails__previewAudioCanvas",
+        "width": 300,
+        "height": 150
+      }
+    ],
+    "transforms": [
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -115.57, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -145.273, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -210.828, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -122.914, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -158.055, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -137.258, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -95.2266, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -159.641, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -148.93, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -159.391, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -139.758, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -156.727, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -137.383, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -251.422, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -193.539, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -262.445, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -132.461, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -156.773, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -150.852, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -171, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -140.211, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageFooter__close",
+        "transform": "none",
+        "perspective": "none",
+        "position": "sticky"
+      },
+      {
+        "tag": "SOURCE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      }
+    ],
+    "links": [
+      {
+        "text": "Nomad Letters",
+        "href": "https://press.stripe.com/nomad-letters"
+      },
+      {
+        "text": "Built to Grow",
+        "href": "https://press.stripe.com/built-to-grow"
+      },
+      {
+        "text": "Poor Charlie’s Almanack",
+        "href": "https://press.stripe.com/poor-charlies-almanack"
+      },
+      {
+        "text": "Maintenance",
+        "href": "https://press.stripe.com/maintenance-part-one"
+      },
+      {
+        "text": "The Origins of Efficiency",
+        "href": "https://press.stripe.com/origins-of-efficiency"
+      },
+      {
+        "text": "The Scaling Era",
+        "href": "https://press.stripe.com/scaling"
+      },
+      {
+        "text": "Boom",
+        "href": "https://press.stripe.com/boom"
+      },
+      {
+        "text": "Scaling People",
+        "href": "https://press.stripe.com/scaling-people"
+      },
+      {
+        "text": "Pieces of the Action",
+        "href": "https://press.stripe.com/pieces-of-the-action"
+      },
+      {
+        "text": "Where Is My Flying Car?",
+        "href": "https://press.stripe.com/where-is-my-flying-car"
+      },
+      {
+        "text": "The Big Score",
+        "href": "https://press.stripe.com/the-big-score"
+      },
+      {
+        "text": "Scientific Freedom",
+        "href": "https://press.stripe.com/scientific-freedom"
+      },
+      {
+        "text": "Working in Public",
+        "href": "https://press.stripe.com/working-in-public"
+      },
+      {
+        "text": "The Art of Doing Science and Engineering",
+        "href": "https://press.stripe.com/the-art-of-doing-science-and-engineering"
+      },
+      {
+        "text": "The Making of Prince of Persia",
+        "href": "https://press.stripe.com/the-making-of-prince-of-persia"
+      }
+    ],
+    "animations": []
+  },
+  {
+    "label": "scroll-0",
+    "url": "https://press.stripe.com/",
+    "scroll": 650,
+    "canvas": [
+      {
+        "class": "PressHomepageCanvas",
+        "width": 1440,
+        "height": 1000
+      },
+      {
+        "class": "PressHomepagePodcastDetails__previewAudioCanvas",
+        "width": 300,
+        "height": 150
+      }
+    ],
+    "transforms": [
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -115.57, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -145.273, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -210.828, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -122.914, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -158.055, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -137.258, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -95.2266, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -159.641, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -148.93, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -159.391, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -139.758, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -156.727, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -137.383, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -251.422, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -193.539, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -262.445, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -132.461, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -156.773, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -150.852, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -171, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -140.211, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageFooter__close",
+        "transform": "none",
+        "perspective": "none",
+        "position": "sticky"
+      },
+      {
+        "tag": "SOURCE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      }
+    ],
+    "links": [
+      {
+        "text": "Nomad Letters",
+        "href": "https://press.stripe.com/nomad-letters"
+      },
+      {
+        "text": "Built to Grow",
+        "href": "https://press.stripe.com/built-to-grow"
+      },
+      {
+        "text": "Poor Charlie’s Almanack",
+        "href": "https://press.stripe.com/poor-charlies-almanack"
+      },
+      {
+        "text": "Maintenance",
+        "href": "https://press.stripe.com/maintenance-part-one"
+      },
+      {
+        "text": "The Origins of Efficiency",
+        "href": "https://press.stripe.com/origins-of-efficiency"
+      },
+      {
+        "text": "The Scaling Era",
+        "href": "https://press.stripe.com/scaling"
+      },
+      {
+        "text": "Boom",
+        "href": "https://press.stripe.com/boom"
+      },
+      {
+        "text": "Scaling People",
+        "href": "https://press.stripe.com/scaling-people"
+      },
+      {
+        "text": "Pieces of the Action",
+        "href": "https://press.stripe.com/pieces-of-the-action"
+      },
+      {
+        "text": "Where Is My Flying Car?",
+        "href": "https://press.stripe.com/where-is-my-flying-car"
+      },
+      {
+        "text": "The Big Score",
+        "href": "https://press.stripe.com/the-big-score"
+      },
+      {
+        "text": "Scientific Freedom",
+        "href": "https://press.stripe.com/scientific-freedom"
+      },
+      {
+        "text": "Working in Public",
+        "href": "https://press.stripe.com/working-in-public"
+      },
+      {
+        "text": "The Art of Doing Science and Engineering",
+        "href": "https://press.stripe.com/the-art-of-doing-science-and-engineering"
+      },
+      {
+        "text": "The Making of Prince of Persia",
+        "href": "https://press.stripe.com/the-making-of-prince-of-persia"
+      }
+    ],
+    "animations": []
+  },
+  {
+    "label": "scroll-1",
+    "url": "https://press.stripe.com/",
+    "scroll": 650,
+    "canvas": [
+      {
+        "class": "PressHomepageCanvas",
+        "width": 1440,
+        "height": 1000
+      },
+      {
+        "class": "PressHomepagePodcastDetails__previewAudioCanvas",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "transforms": [
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -115.57, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -145.273, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -210.828, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -122.914, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -158.055, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -137.258, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -95.2266, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -159.641, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -148.93, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -159.391, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -139.758, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -156.727, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -137.383, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -251.422, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -193.539, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -262.445, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -132.461, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -156.773, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -150.852, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -171, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -140.211, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageFooter__close",
+        "transform": "none",
+        "perspective": "none",
+        "position": "sticky"
+      },
+      {
+        "tag": "SOURCE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator PressHomepageMenu__productIndicator--isActive",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      }
+    ],
+    "links": [
+      {
+        "text": "Nomad Letters",
+        "href": "https://press.stripe.com/nomad-letters"
+      },
+      {
+        "text": "Built to Grow",
+        "href": "https://press.stripe.com/built-to-grow"
+      },
+      {
+        "text": "Poor Charlie’s Almanack",
+        "href": "https://press.stripe.com/poor-charlies-almanack"
+      },
+      {
+        "text": "Maintenance",
+        "href": "https://press.stripe.com/maintenance-part-one"
+      },
+      {
+        "text": "The Origins of Efficiency",
+        "href": "https://press.stripe.com/origins-of-efficiency"
+      },
+      {
+        "text": "The Scaling Era",
+        "href": "https://press.stripe.com/scaling"
+      },
+      {
+        "text": "Boom",
+        "href": "https://press.stripe.com/boom"
+      },
+      {
+        "text": "Scaling People",
+        "href": "https://press.stripe.com/scaling-people"
+      },
+      {
+        "text": "Pieces of the Action",
+        "href": "https://press.stripe.com/pieces-of-the-action"
+      },
+      {
+        "text": "Where Is My Flying Car?",
+        "href": "https://press.stripe.com/where-is-my-flying-car"
+      },
+      {
+        "text": "The Big Score",
+        "href": "https://press.stripe.com/the-big-score"
+      },
+      {
+        "text": "Scientific Freedom",
+        "href": "https://press.stripe.com/scientific-freedom"
+      },
+      {
+        "text": "Working in Public",
+        "href": "https://press.stripe.com/working-in-public"
+      },
+      {
+        "text": "The Art of Doing Science and Engineering",
+        "href": "https://press.stripe.com/the-art-of-doing-science-and-engineering"
+      },
+      {
+        "text": "The Making of Prince of Persia",
+        "href": "https://press.stripe.com/the-making-of-prince-of-persia"
+      }
+    ],
+    "animations": []
+  },
+  {
+    "label": "scroll-2",
+    "url": "https://press.stripe.com/",
+    "scroll": 1300,
+    "canvas": [
+      {
+        "class": "PressHomepageCanvas",
+        "width": 1440,
+        "height": 1000
+      },
+      {
+        "class": "PressHomepagePodcastDetails__previewAudioCanvas",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "transforms": [
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -115.57, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -145.273, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -210.828, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -122.914, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -158.055, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -137.258, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -95.2266, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -159.641, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -148.93, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -159.391, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -139.758, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -156.727, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -137.383, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -251.422, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -193.539, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -262.445, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -132.461, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -156.773, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -150.852, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -171, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -140.211, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageFooter__close",
+        "transform": "none",
+        "perspective": "none",
+        "position": "sticky"
+      },
+      {
+        "tag": "SOURCE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator PressHomepageMenu__productIndicator--isActive",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageMenu__productIndicator",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      }
+    ],
+    "links": [
+      {
+        "text": "Nomad Letters",
+        "href": "https://press.stripe.com/nomad-letters"
+      },
+      {
+        "text": "Built to Grow",
+        "href": "https://press.stripe.com/built-to-grow"
+      },
+      {
+        "text": "Poor Charlie’s Almanack",
+        "href": "https://press.stripe.com/poor-charlies-almanack"
+      },
+      {
+        "text": "Maintenance",
+        "href": "https://press.stripe.com/maintenance-part-one"
+      },
+      {
+        "text": "The Origins of Efficiency",
+        "href": "https://press.stripe.com/origins-of-efficiency"
+      },
+      {
+        "text": "The Scaling Era",
+        "href": "https://press.stripe.com/scaling"
+      },
+      {
+        "text": "Boom",
+        "href": "https://press.stripe.com/boom"
+      },
+      {
+        "text": "Scaling People",
+        "href": "https://press.stripe.com/scaling-people"
+      },
+      {
+        "text": "Pieces of the Action",
+        "href": "https://press.stripe.com/pieces-of-the-action"
+      },
+      {
+        "text": "Where Is My Flying Car?",
+        "href": "https://press.stripe.com/where-is-my-flying-car"
+      },
+      {
+        "text": "The Big Score",
+        "href": "https://press.stripe.com/the-big-score"
+      },
+      {
+        "text": "Scientific Freedom",
+        "href": "https://press.stripe.com/scientific-freedom"
+      },
+      {
+        "text": "Working in Public",
+        "href": "https://press.stripe.com/working-in-public"
+      },
+      {
+        "text": "The Art of Doing Science and Engineering",
+        "href": "https://press.stripe.com/the-art-of-doing-science-and-engineering"
+      },
+      {
+        "text": "The Making of Prince of Persia",
+        "href": "https://press.stripe.com/the-making-of-prince-of-persia"
+      }
+    ],
+    "animations": []
+  },
+  {
+    "label": "book",
+    "url": "https://press.stripe.com/the-art-of-doing-science-and-engineering",
+    "scroll": 0,
+    "canvas": [
+      {
+        "class": "PressHomepageCanvas",
+        "width": 1440,
+        "height": 1000
+      },
+      {
+        "class": "PressHomepagePodcastDetails__previewAudioCanvas",
+        "width": 466,
+        "height": 50
+      }
+    ],
+    "transforms": [
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__info",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "DomGraphic__scaleContainer",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "DomGraphic__scaleContainer",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__info",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__info",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__info",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "DomGraphic__scaleContainer",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__info",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__info",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "DomGraphic__scaleContainer",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__info",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "DomGraphic__scaleContainer",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__info",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "DomGraphic__scaleContainer",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__info",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__info",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "DomGraphic__scaleContainer",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__info",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "DomGraphic__scaleContainer",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__info",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "DomGraphic__scaleContainer",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__info",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__info",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__info",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "relative"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBookDetails__buyHoverLeft",
+        "transform": "matrix(0, 0, 0, 1, 0, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      }
+    ],
+    "links": [
+      {
+        "text": "Purchase on Bookshop   \n                  \n                  $35",
+        "href": "https://bookshop.org/books/the-art-of-doing-science-and-engineering-learning-to-learn/9781732265172"
+      },
+      {
+        "text": "Purchase on Barnes & Noble   \n                  \n                  $35",
+        "href": "https://www.barnesandnoble.com/w/art-of-doing-science-and-engineering-richard-w-w-hamming/1101723861?ean=9781732265172"
+      },
+      {
+        "text": "Purchase on Amazon   \n                  \n                  $35",
+        "href": "https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/1732265178/ref=sr_1_1?dchild=1&keywords=The+Art+of+Doing+Science+and+Engineering&qid=1590087581&sr=8-1"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/watch?v=CRTxSAO7gg8"
+      },
+      {
+        "text": "PDF",
+        "href": "https://d37ugbyn3rpeym.cloudfront.net/stripe-press/TAODSAE_zine_press.pdf"
+      },
+      {
+        "text": "New Yorker",
+        "href": "https://www.newyorker.com/culture/2020-in-review/the-best-books-we-read-in-2020"
+      },
+      {
+        "text": "Preorder on Stripe   \n                  \n                  $40",
+        "href": "https://buy.stripe.com/7sY7sMe2z9Pi5AH00y3ks0c?prefilled_promo_code=NOMADPREORDER20"
+      },
+      {
+        "text": "Preorder on Bookshop   \n                  \n                  $40",
+        "href": "https://bookshop.org/search?keywords=9781953953599"
+      },
+      {
+        "text": "Preorder on Barnes & Noble   \n                  \n                  $40",
+        "href": "https://www.barnesandnoble.com/w/nomad-letters-nick-sleep/1147829068?ean=9781953953599"
+      },
+      {
+        "text": "Preorder on Amazon   \n                  \n                  $40",
+        "href": "https://www.amazon.com/dp/195395359X"
+      },
+      {
+        "text": "Purchase on Bookshop   \n                  \n                  $40",
+        "href": "https://bookshop.org/p/books/built-to-grow-a-handbook-for-high-performance-sales-teams-stephanie-friedman/4d8d652814bafc7c"
+      },
+      {
+        "text": "Purchase on Barnes & Noble   \n                  \n                  $40",
+        "href": "https://www.barnesandnoble.com/w/built-to-grow-stephanie-friedman/1147711185?ean=9781953953629"
+      },
+      {
+        "text": "Purchase on Amazon   \n                  \n                  $40",
+        "href": "https://www.amazon.com/dp/195395362X?lv=shuf&channelId=500&plpRedirect=mhFallback"
+      },
+      {
+        "text": "Twitter",
+        "href": "https://x.com/she_travels"
+      },
+      {
+        "text": "Website",
+        "href": "https://stripe.press/poor-charlies-almanack"
+      }
+    ],
+    "animations": [
+      {
+        "state": "running",
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(0)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "state": "running",
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(0)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "state": "running",
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(0)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "state": "running",
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(0)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "state": "running",
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(0)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "state": "running",
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(0)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "state": "running",
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(0)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "state": "running",
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(0)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "state": "running",
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(0)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "state": "running",
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(0)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "scaleX(1)",
+            "computedOffset": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "mobile",
+    "url": "https://press.stripe.com/",
+    "scroll": 0,
+    "canvas": [
+      {
+        "class": "PressHomepageCanvas",
+        "width": 390,
+        "height": 844
+      },
+      {
+        "class": "PressHomepagePodcastDetails__previewAudioCanvas",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "transforms": [
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -97.5, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -97.5, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -97.5, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -99.2422, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -97.5, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -97.5, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -95.2266, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -97.5, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -97.5, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -97.5, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -97.5, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -97.5, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -97.5, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -104.406, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -97.5, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -100, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -97.5, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -97.5, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -97.5, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -97.5, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "DIV",
+        "class": "PressHomepageBook__text",
+        "transform": "matrix(1, 0, 0, 1, -97.5, 0)",
+        "perspective": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "CODE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "BUTTON",
+        "class": "PressHomepageFooter__close",
+        "transform": "none",
+        "perspective": "none",
+        "position": "sticky"
+      },
+      {
+        "tag": "SOURCE",
+        "class": "",
+        "transform": "",
+        "perspective": "",
+        "position": ""
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      },
+      {
+        "tag": "path",
+        "class": {},
+        "transform": "matrix(1, 0, 0, 1, -1, -1)",
+        "perspective": "none",
+        "position": "static"
+      }
+    ],
+    "links": [
+      {
+        "text": "Nomad Letters",
+        "href": "https://press.stripe.com/nomad-letters"
+      },
+      {
+        "text": "Built to Grow",
+        "href": "https://press.stripe.com/built-to-grow"
+      },
+      {
+        "text": "Poor Charlie’s Almanack",
+        "href": "https://press.stripe.com/poor-charlies-almanack"
+      },
+      {
+        "text": "Maintenance",
+        "href": "https://press.stripe.com/maintenance-part-one"
+      },
+      {
+        "text": "The Origins of Efficiency",
+        "href": "https://press.stripe.com/origins-of-efficiency"
+      },
+      {
+        "text": "The Scaling Era",
+        "href": "https://press.stripe.com/scaling"
+      },
+      {
+        "text": "Boom",
+        "href": "https://press.stripe.com/boom"
+      },
+      {
+        "text": "Scaling People",
+        "href": "https://press.stripe.com/scaling-people"
+      },
+      {
+        "text": "Pieces of the Action",
+        "href": "https://press.stripe.com/pieces-of-the-action"
+      },
+      {
+        "text": "Where Is My Flying Car?",
+        "href": "https://press.stripe.com/where-is-my-flying-car"
+      },
+      {
+        "text": "The Big Score",
+        "href": "https://press.stripe.com/the-big-score"
+      },
+      {
+        "text": "Scientific Freedom",
+        "href": "https://press.stripe.com/scientific-freedom"
+      },
+      {
+        "text": "Working in Public",
+        "href": "https://press.stripe.com/working-in-public"
+      },
+      {
+        "text": "The Art of Doing Science and Engineering",
+        "href": "https://press.stripe.com/the-art-of-doing-science-and-engineering"
+      },
+      {
+        "text": "The Making of Prince of Persia",
+        "href": "https://press.stripe.com/the-making-of-prince-of-persia"
+      }
+    ],
+    "animations": [
+      {
+        "state": "running",
+        "frames": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "opacity": "0",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "opacity": "1",
+            "computedOffset": 1
+          }
+        ]
+      }
+    ]
+  }
+]

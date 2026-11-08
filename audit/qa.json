@@ -1,0 +1,368 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "route": "/",
+      "title": "Innovating the Future of Pediatric & Preventive Dentistry | SPARK-DV",
+      "h1": [
+        "Small details.Brighter futures."
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/products",
+      "title": "Our Products | SPARK-DV",
+      "h1": [
+        "Products forpediatric care."
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/products/nanion-lite",
+      "title": "Nanion Lite | SPARK-DV",
+      "h1": [
+        "Nanion Lite"
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/products/nanion-elite",
+      "title": "Nanion Elite | SPARK-DV",
+      "h1": [
+        "Nanion Elite"
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/products/nanion-lite-pro",
+      "title": "Nanion Lite Pro | SPARK-DV",
+      "h1": [
+        "Nanion Lite Pro"
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/products/nanion-elite-pro",
+      "title": "Nanion Elite Pro | SPARK-DV",
+      "h1": [
+        "Nanion Elite Pro"
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/products/nanion-swish",
+      "title": "Nanion Swish | SPARK-DV",
+      "h1": [
+        "Nanion Swish"
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/products/pobtura",
+      "title": "P-Obtura Bio-Activ | SPARK-DV",
+      "h1": [
+        "P-Obtura Bio-Activ"
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/products/nanohybrid-biocem",
+      "title": "Nanohybrid Biocem | SPARK-DV",
+      "h1": [
+        "Nanohybrid Biocem"
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/products/marc",
+      "title": "MARC 3D Crowns | SPARK-DV",
+      "h1": [
+        "MARC 3D Crowns"
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/products/marc-zirc",
+      "title": "MARC Zirc Crowns | SPARK-DV",
+      "h1": [
+        "MARC Zirc Crowns"
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/products/tac",
+      "title": "TRICURE | SPARK-DV",
+      "h1": [
+        "TRICURE"
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/products/nanosilver-pro",
+      "title": "Nano Silver Pro | SPARK-DV",
+      "h1": [
+        "Nano Silver Pro"
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/products/3d-flxpost",
+      "title": "3D FLXPOST | SPARK-DV",
+      "h1": [
+        "3D FLXPOST"
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/products/nanion-pro-plus-gummies",
+      "title": "Nanion Pro Plus Gummies | SPARK-DV",
+      "h1": [
+        "Nanion Pro Plus Gummies"
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/products/asm",
+      "title": "ASM — Advanced Space Maintainer | SPARK-DV",
+      "h1": [
+        "ASM — Advanced Space Maintainer"
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/products/pedo-spark-single",
+      "title": "Pedo Spark — Single File System | SPARK-DV",
+      "h1": [
+        "Pedo Spark — Single File System"
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/products/pedo-spark-three",
+      "title": "Pedo Spark — Three File System | SPARK-DV",
+      "h1": [
+        "Pedo Spark — Three File System"
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/products/endo-spark-permanent",
+      "title": "Endo Spark Files — Permanent Teeth | SPARK-DV",
+      "h1": [
+        "Endo Spark Files — Permanent Teeth"
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/products/nanion-pro",
+      "title": "Nanion Pro | SPARK-DV",
+      "h1": [
+        "Four-actionNanion Pro."
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/products/spark-files",
+      "title": "SPARK DV Files | SPARK-DV",
+      "h1": [
+        "Pediatric and permanentfile systems."
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/about",
+      "title": "About SPARK-DV | SPARK-DV",
+      "h1": [
+        "Ideas shaped\nby science."
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/science",
+      "title": "Science & Research | SPARK-DV",
+      "h1": [
+        "Small scale.\nMeaningful science."
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/dentists",
+      "title": "Clinical Resource Center | SPARK-DV",
+      "h1": [
+        "Precision in practice."
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/parents",
+      "title": "For Parents | SPARK-DV",
+      "h1": [
+        "Little routines.\nLifelong care."
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/school-program",
+      "title": "School Dental Health Preventive Program | SPARK-DV",
+      "h1": [
+        "Healthy habits.\nShared futures."
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/contact",
+      "title": "Contact Us | SPARK-DV",
+      "h1": [
+        "Let’s starta conversation."
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/privacy",
+      "title": "Privacy Policy | SPARK-DV",
+      "h1": [
+        "PrivacyPolicy"
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/terms",
+      "title": "Terms of Service | SPARK-DV",
+      "h1": [
+        "Termsof Service"
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/shipping",
+      "title": "Shipping & Returns | SPARK-DV",
+      "h1": [
+        "Shipping& Returns"
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/cart",
+      "title": "Your selection | SPARK-DV",
+      "h1": [
+        "Your selection."
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/products/not-real",
+      "title": "Page not found | SPARK-DV",
+      "h1": [
+        "This page isout of reach."
+      ],
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/products",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/about",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/contact",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/products/nanion-lite-pro",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/products",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/about",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/contact",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/products/nanion-lite-pro",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/products",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/about",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/contact",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/products/nanion-lite-pro",
+      "width": 1024,
+      "overflow": false
+    }
+  ]
+}

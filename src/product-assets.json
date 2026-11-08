@@ -1,0 +1,155 @@
+{
+  "nanion-lite": {
+    "name": "Nanion Lite",
+    "local": "/assets/products/nanion-lite/product.webp",
+    "width": 561,
+    "height": 1280,
+    "source": "https://sparkdv.com/assets/standard-fluoride-limitation-DIYLvemV.png",
+    "page": "https://sparkdv.com/products/nanion-lite",
+    "sharedSource": "The source reuses the Nanion Lite Pro photograph; variant-specific photography is not supplied."
+  },
+  "nanion-elite": {
+    "name": "Nanion Elite",
+    "local": "/assets/products/nanion-elite/product.webp",
+    "width": 1200,
+    "height": 896,
+    "source": "https://sparkdv.com/assets/nanion-bottle-2Q8lm3AK.jpg",
+    "page": "https://sparkdv.com/products/nanion-elite",
+    "sharedSource": null
+  },
+  "nanion-lite-pro": {
+    "name": "Nanion Lite Pro",
+    "local": "/assets/products/nanion-lite-pro/product.webp",
+    "width": 561,
+    "height": 1280,
+    "source": "https://sparkdv.com/assets/nanion-lite-pro-fThDTofj.jpg",
+    "page": "https://sparkdv.com/products/nanion-lite-pro",
+    "sharedSource": "The source reuses the Nanion Lite Pro photograph; variant-specific photography is not supplied."
+  },
+  "nanion-elite-pro": {
+    "name": "Nanion Elite Pro",
+    "local": "/assets/products/nanion-elite-pro/product.webp",
+    "width": 561,
+    "height": 1280,
+    "source": "https://sparkdv.com/assets/nanion-lite-pro-fThDTofj.jpg",
+    "page": "https://sparkdv.com/products/nanion-elite-pro",
+    "sharedSource": "The source reuses the Nanion Lite Pro photograph; variant-specific photography is not supplied."
+  },
+  "nanion-swish": {
+    "name": "Nanion Swish",
+    "local": "/assets/products/nanion-swish/product.webp",
+    "width": 832,
+    "height": 1248,
+    "source": "https://sparkdv.com/assets/nanion-swish-bottle-BjOFe7N8.jpg",
+    "page": "https://sparkdv.com/products/nanion-swish",
+    "sharedSource": "The source reuses the Nanion Lite Pro photograph; variant-specific photography is not supplied."
+  },
+  "pobtura": {
+    "name": "P-Obtura Bio-Activ",
+    "local": "/assets/products/pobtura/product.webp",
+    "width": 1920,
+    "height": 916,
+    "source": "https://sparkdv.com/__l5e/assets-v1/8445bc1c-95fe-4747-bbdb-73fef572855e/pobtura-dentist.png",
+    "page": "https://sparkdv.com/products/pobtura",
+    "sharedSource": null
+  },
+  "nanohybrid-biocem": {
+    "name": "Nanohybrid Biocem",
+    "local": "/assets/products/nanohybrid-biocem/product.webp",
+    "width": 870,
+    "height": 850,
+    "source": "https://sparkdv.com/products/nanohybrid-biocem",
+    "page": "https://sparkdv.com/products/nanohybrid-biocem",
+    "sharedSource": null
+  },
+  "marc": {
+    "name": "MARC 3D Crowns",
+    "local": "/assets/products/marc/product.webp",
+    "width": 1833,
+    "height": 1759,
+    "source": "https://sparkdv.com/assets/marc-bfs-performance-DvvknO2d.png",
+    "page": "https://sparkdv.com/products/marc",
+    "sharedSource": null
+  },
+  "marc-zirc": {
+    "name": "MARC Zirc Crowns",
+    "local": "/assets/products/marc-zirc/product.webp",
+    "width": 1028,
+    "height": 923,
+    "source": "https://sparkdv.com/assets/marc-zirc-logo-Dc1jxqRI.png",
+    "page": "https://sparkdv.com/products/marc-zirc",
+    "sharedSource": null
+  },
+  "tac": {
+    "name": "TRICURE",
+    "local": "/assets/products/tac/product.webp",
+    "width": 2000,
+    "height": 2000,
+    "source": "https://sparkdv.com/assets/tac-triple-action-8eSupyWR.png",
+    "page": "https://sparkdv.com/products/tac",
+    "sharedSource": null
+  },
+  "nanosilver-pro": {
+    "name": "Nano Silver Pro",
+    "local": "/assets/products/nanosilver-pro/product.webp",
+    "width": 1651,
+    "height": 1485,
+    "source": "Existing original asset: nanosilver-pro.png",
+    "page": "https://sparkdv.com/products/nanosilver-pro",
+    "sharedSource": null
+  },
+  "3d-flxpost": {
+    "name": "3D FLXPOST",
+    "local": "/assets/products/3d-flxpost/product.webp",
+    "width": 1965,
+    "height": 1967,
+    "source": "https://sparkdv.com/__l5e/assets-v1/4470f73f-003e-4d6a-9b92-8c07db35b3e7/flxpost-case-crown.png",
+    "page": "https://sparkdv.com/products/3d-flxpost",
+    "sharedSource": null
+  },
+  "nanion-pro-plus-gummies": {
+    "name": "Nanion Pro Plus Gummies",
+    "local": "/assets/products/nanion-pro-plus-gummies/product.webp",
+    "width": 896,
+    "height": 1194,
+    "source": "https://sparkdv.com/__l5e/assets-v1/808867cf-ab89-4b1d-a4fc-335341b81aa3/nanion-pro-plus-gummies-bottle.png",
+    "page": "https://sparkdv.com/products/nanion-pro-plus-gummies",
+    "sharedSource": null
+  },
+  "asm": {
+    "name": "ASM — Advanced Space Maintainer",
+    "local": "/assets/products/asm/product.webp",
+    "width": 1788,
+    "height": 592,
+    "source": "https://sparkdv.com/__l5e/assets-v1/41f546b3-bcdd-4eb3-ad80-6e5d9673555c/asm-case-fig06.jpg",
+    "page": "https://sparkdv.com/products/asm",
+    "sharedSource": null
+  },
+  "pedo-spark-single": {
+    "name": "Pedo Spark — Single File System",
+    "local": "/assets/products/pedo-spark-single/product.webp",
+    "width": 1264,
+    "height": 843,
+    "source": "https://sparkdv.com/__l5e/assets-v1/88f94eed-13a9-40ec-95fe-c669ccae0a11/pedo-spark-single-pack.png",
+    "page": "https://sparkdv.com/products/pedo-spark-single",
+    "sharedSource": null
+  },
+  "pedo-spark-three": {
+    "name": "Pedo Spark — Three File System",
+    "local": "/assets/products/pedo-spark-three/product.webp",
+    "width": 1264,
+    "height": 848,
+    "source": "https://sparkdv.com/__l5e/assets-v1/89944239-6bfe-46fc-8dbc-0a8206737dd7/pedo-spark-three-pack.png",
+    "page": "https://sparkdv.com/products/pedo-spark-three",
+    "sharedSource": null
+  },
+  "endo-spark-permanent": {
+    "name": "Endo Spark Files — Permanent Teeth",
+    "local": "/assets/products/endo-spark-permanent/product.webp",
+    "width": 1244,
+    "height": 848,
+    "source": "https://sparkdv.com/__l5e/assets-v1/acc204e9-ca6b-4fb0-b851-d8bd754981e8/endo-spark-pack.png",
+    "page": "https://sparkdv.com/products/endo-spark-permanent",
+    "sharedSource": null
+  }
+}

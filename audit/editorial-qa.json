@@ -1,0 +1,81 @@
+{
+  "results": [
+    {
+      "path": "science",
+      "assembly": true,
+      "keyboard": true,
+      "drag": true,
+      "idleDraws": 0,
+      "offscreenPaused": true
+    },
+    {
+      "path": "dentists",
+      "assembly": true,
+      "keyboard": true,
+      "drag": true,
+      "idleDraws": 0,
+      "offscreenPaused": true
+    },
+    {
+      "path": "parents",
+      "assembly": true,
+      "keyboard": true,
+      "drag": true,
+      "idleDraws": 0,
+      "offscreenPaused": true
+    },
+    {
+      "path": "school-program",
+      "assembly": true,
+      "keyboard": true,
+      "drag": true,
+      "idleDraws": 0,
+      "offscreenPaused": true
+    },
+    {
+      "path": "about",
+      "assembly": true,
+      "keyboard": true,
+      "drag": true,
+      "idleDraws": 0,
+      "offscreenPaused": true
+    },
+    {
+      "contextLossFallback": true,
+      "originalPhotos": true,
+      "protocolAccordion": true,
+      "scrollSync": true
+    },
+    {
+      "path": "science",
+      "mobile": true,
+      "touch": true
+    },
+    {
+      "path": "dentists",
+      "mobile": true,
+      "touch": true
+    },
+    {
+      "path": "parents",
+      "mobile": true,
+      "touch": true
+    },
+    {
+      "path": "school-program",
+      "mobile": true,
+      "touch": true
+    },
+    {
+      "path": "about",
+      "mobile": true,
+      "touch": true
+    },
+    {
+      "reducedMotion": true,
+      "reducedMotionHeavyRequests": 0,
+      "noWebGLFallback": true
+    }
+  ],
+  "errors": []
+}

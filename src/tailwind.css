@@ -1,0 +1,6 @@
+@layer theme, base, components, utilities;
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);
+@source "./components/ui";
+/* No global Preflight reset: preserve the established site while enabling supplied components. */
+@theme { --font-sans: "DM Sans", sans-serif; }

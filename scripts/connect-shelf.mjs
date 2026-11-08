@@ -1,0 +1,11 @@
+import fs from 'node:fs/promises';
+let s=await fs.readFile('src/Editorial.jsx','utf8');s=s.replace('import React, { useState }','import React, { useState, lazy, Suspense }');s=s.replace('import protocols from',`import {ProductShelf} from './components/ui/skincare-product-shelf';
+const LandingReveal=lazy(()=>import('./components/ui/landing-reveal'));
+import protocols from`);
+s=s.replace('export function NewHome() {','export function NewHome({add}) {');
+const filterStart=s.indexOf('  const items = products.filter('),filterEnd=s.indexOf('\n  return (',filterStart);s=s.slice(0,filterStart)+`  const items = products.filter(p=>category==='All products'||p.category===category).map(p=>({...p,image:assets[p.slug].local,imageWidth:assets[p.slug].width,imageHeight:assets[p.slug].height}));`+s.slice(filterEnd);
+s=s.replace('<section className="new-hero">','<Suspense fallback={null}><LandingReveal/></Suspense>\n      <section className="new-hero">');
+const gridStart=s.indexOf('<div className="portfolio-grid">'),gridEnd=s.indexOf('<Link className="text-link" to="/products">',gridStart);s=s.slice(0,gridStart)+'<ProductShelf products={items} onAdd={add}/>\n        '+s.slice(gridEnd);await fs.writeFile('src/Editorial.jsx',s);
+let app=await fs.readFile('src/App.jsx','utf8');app=app.replace('return <NewHome />','return <NewHome add={add} />');app=app.replace('const add = (p) =>','const add = (p, count = 1) =>').replace('qty: i.qty + 1','qty: i.qty + count').replace('{ ...p, qty: 1 }','{ ...p, qty: count }');await fs.writeFile('src/App.jsx',app);
+let main=await fs.readFile('src/main.jsx','utf8');main="import './tailwind.css';\n"+main+"\nimport './components/ui/product-shelf.css';\n";await fs.writeFile('src/main.jsx',main);
+const pkg=JSON.parse(await fs.readFile('package.json'));pkg.scripts.typecheck='tsc --noEmit';pkg.scripts['test:browser']='node scripts/interactions.mjs';await fs.writeFile('package.json',JSON.stringify(pkg,null,2));

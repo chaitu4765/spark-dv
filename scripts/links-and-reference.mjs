@@ -1,0 +1,8 @@
+import {chromium,expect} from '@playwright/test';import fs from 'node:fs/promises';
+const b=await chromium.launch({channel:'chromium'});const p=await b.newPage({viewport:{width:1440,height:1000}});const content=JSON.parse(await fs.readFile('src/source-content.json'));const known=new Set([...Object.keys(content),'/cart','/contact']);let failures=[];let anchors=[];
+for(const path of Object.keys(content).filter(p=>!['/privacy','/terms','/shipping'].includes(p))){await p.goto('http://127.0.0.1:5173'+path);for(const link of await p.locator('a[href]').evaluateAll(es=>es.map(e=>e.getAttribute('href')))){if(link.startsWith('/')&&!link.startsWith('/assets/')&&!known.has(link.split(/[?#]/)[0]))failures.push({path,link});if(link.startsWith('#')&&!(await p.locator('[id="'+link.slice(1)+'"]').count()))anchors.push({path,link});}}
+await p.goto('http://127.0.0.1:5173/dentists');await p.getByText('NSF Toothpaste Usage',{exact:true}).click();await expect(p.getByText('Step 1: Baseline Assessment',{exact:false})).toBeVisible();await p.screenshot({path:'audit/screenshots/protocol-expanded.png'});
+await fs.writeFile('audit/links.json',JSON.stringify({failures,anchors},null,2));console.log({failures,anchors});
+await p.goto('https://non-linear.studio/work/cleer');await p.waitForTimeout(2000);const reference=await p.locator('img[data-gl-src]').evaluateAll(es=>es.slice(0,6).map(e=>({url:e.dataset.glSrc,alt:e.alt})));
+for(const item of reference.slice(1,4)){await p.goto(item.url);await p.screenshot({path:'audit/screenshots/reference-'+item.alt.toLowerCase().replaceAll(' ','-')+'.png'});}
+await fs.writeFile('audit/reference-assets.json',JSON.stringify(reference,null,2));await b.close();

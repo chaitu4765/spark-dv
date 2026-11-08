@@ -1,0 +1,10 @@
+{
+  "results": [
+    "Desktop scroll keeps the research topic and original illustration synchronized",
+    "Homepage shelf filters, original product details and cart still work",
+    "Mobile topic controls and testimonial switching pass without overflow",
+    "Reduced motion uses static layout with working topic controls",
+    "All six other checked routes retain their own layouts and contain no homepage scenes"
+  ],
+  "errors": []
+}

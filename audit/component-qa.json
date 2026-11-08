@@ -1,0 +1,12 @@
+{
+  "results": [
+    "Logo reveal appears on initial load and reload; skip works",
+    "Products route uses shelf, Prevention has 7 entries, modal quantity adds 2 to existing cart",
+    "Search, empty-state recovery and complete 17-product shelf pass",
+    "Contextual footer pause and back-to-top controls pass",
+    "Mobile two-product shelves, image zoom and Escape pass",
+    "Reduced-motion static reveal exits without animation"
+  ],
+  "errors": [],
+  "overflow": false
+}

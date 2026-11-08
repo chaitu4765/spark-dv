@@ -1,0 +1,57 @@
+{
+  "results": [
+    {
+      "path": "/science",
+      "width": 1440,
+      "models": 0
+    },
+    {
+      "path": "/dentists",
+      "width": 1440,
+      "models": 0
+    },
+    {
+      "path": "/parents",
+      "width": 1440,
+      "models": 0
+    },
+    {
+      "path": "/school-program",
+      "width": 1440,
+      "models": 0
+    },
+    {
+      "path": "/about",
+      "width": 1440,
+      "models": 0
+    },
+    {
+      "path": "/science",
+      "width": 390,
+      "models": 0
+    },
+    {
+      "path": "/dentists",
+      "width": 390,
+      "models": 0
+    },
+    {
+      "path": "/parents",
+      "width": 390,
+      "models": 0
+    },
+    {
+      "path": "/school-program",
+      "width": 390,
+      "models": 0
+    },
+    {
+      "path": "/about",
+      "width": 390,
+      "models": 0
+    }
+  ],
+  "errors": [],
+  "protocols": true,
+  "originalSchoolPhoto": true
+}
